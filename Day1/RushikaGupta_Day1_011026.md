@@ -1,4 +1,4 @@
-##Solution 
+## Solution 
 ```
 #include <stdio.h>
  
