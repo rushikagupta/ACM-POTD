@@ -1,3 +1,6 @@
+## Description of the Solution:
+The solution iterates through the entire grid to find the minimum and maximum row and column indices containing `*` characters. These boundaries define the smallest rectangle enclosing all the asterisks. Finally, it prints the characters within the identified rectangle using nested loops.
+
 ## Solution 
 ```
 #include <stdio.h>
