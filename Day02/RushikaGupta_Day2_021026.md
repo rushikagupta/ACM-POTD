@@ -1,3 +1,6 @@
+## Description of the solution:
+The solution checks each row to ensure that all its cells have the same colour. It then verifies that every pair of adjacent rows has different colours by comparing their first cells. If either condition fails, it prints `NO` and terminates; otherwise, after checking the entire grid, it prints `YES`.
+
 ## Solution
 
 ```
