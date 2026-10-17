@@ -1,3 +1,6 @@
+# Description of Solution:
+First, read the entire string using getline(). Traverse the string from the end and find the last alphabetic character. Convert it to lowercase and check whether it is a vowel (a, e, i, o, u) or y. If it is, print "YES"; otherwise, print "NO".
+
 # Solution
 ```
 
