@@ -1,3 +1,6 @@
+# Description of Solution
+First, read n, d, and the array elements. Then, use two nested loops to check every pair of elements. If the absolute difference between a pair is less than or equal to d, increase ans by 2. Finally, print ans.
+
 # Solution
 ```
 #include <bits/stdc++.h>
