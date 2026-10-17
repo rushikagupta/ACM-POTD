@@ -1,3 +1,6 @@
+# Description of Solution
+First, read the two strings s and t. If their lengths are different, print "NO". Otherwise, compare each character of s with the corresponding character of t in reverse order. If any characters differ, print "NO"; if all match, print "YES".
+
 # Solution
 ```
 #include <bits/stdc++.h>
