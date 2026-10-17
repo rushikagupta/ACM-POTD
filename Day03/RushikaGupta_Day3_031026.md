@@ -1,3 +1,6 @@
+## Description of the Solution
+First, read n and initialize smallest and second to INT_MAX. Then, loop through the elements and update smallest and second to find the two smallest distinct values. If no second smallest value exists, print "NO"; otherwise, print second.
+
 ## Solution 
 ```
 #include <stdio.h>
