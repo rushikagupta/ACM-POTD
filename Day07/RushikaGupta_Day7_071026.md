@@ -1,3 +1,6 @@
+# Description of Solution
+First, read n and the distances between consecutive cities. Then, read the starting city a and destination city b. Use a loop to add the distances from city a to city b-1. Finally, print the total distance in years.
+
 # Solution
 ```
 #include <iostream>
