@@ -1,3 +1,6 @@
+# Description of Solution
+First, read n and the array elements. Then, compare each element with the next one, including the last element with the first. Calculate the absolute difference between each pair and update the minimum difference and indices whenever a smaller difference is found. Finally, print the two indices using 1-based indexing.
+
 # Solution
 ```
 #include <bits/stdc++.h>
