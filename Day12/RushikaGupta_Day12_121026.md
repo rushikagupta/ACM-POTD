@@ -1,3 +1,6 @@
+# Description of Solution
+We traverse through the input string and find the number of lower case and upper case characters. We then find which type of characters are maximum and then iterate through the string to convert any character of the opposite kind to the required one. 
+
 # Solution
 ```
 #include <iostream>
