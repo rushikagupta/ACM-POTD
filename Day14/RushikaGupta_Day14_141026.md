@@ -1,3 +1,6 @@
+# Description of Solution
+We read the scores of all participants and use the score of the \(k\)-th participant as the threshold. We then iterate through the scores and count participants whose scores are greater than or equal to this threshold and strictly positive. Finally, we output the total count.
+
 # Solution
 ```
 #include <iostream>
