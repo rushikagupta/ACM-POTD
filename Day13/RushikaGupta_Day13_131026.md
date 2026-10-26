@@ -1,3 +1,6 @@
+# Description of Solutino
+We convert both strings to uppercase to make the comparison case-insensitive. Then, we compare the characters at each position in order. If a character in the first string is greater than the corresponding character in the second, we print 1; if it is smaller, we print -1. If all corresponding characters are equal, we print 0.
+
 # Solution
 ```
 #include <iostream>
